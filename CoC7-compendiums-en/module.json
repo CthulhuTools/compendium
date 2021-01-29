@@ -1,0 +1,62 @@
+{
+    "name": "CoC7-compendiums-en",
+    "title": "Compendiums for CoC7 in english",
+    "description": "<p>A collection of compendiums for Call of Cthulhu.</p>",
+    "version": "0.1",
+    "minimumCoreVersion": "0.5.0",
+    "compatibleCoreVersion": "0.6.5",
+    "author": "Unknown",
+    "packs": [
+    {
+        "label": "Skills",
+        "entity": "Item",
+        "name": "skills",
+        "path": "packs/skills.db",
+        "system": "CoC7",
+        "package": "world"
+    },
+	{
+        "label": "Hand-to-Hand Weapons",
+        "entity": "Item",
+        "name": "weapons-hand-to-hand",
+        "path": "packs/weapons-hand-to-hand.db",
+        "system": "CoC7",
+        "package": "world"
+    },
+	{
+        "label": "Explosives and Heavy Weapons",
+        "entity": "Item",
+        "name": "weapons-explosives-heavy",
+        "path": "packs/weapons-explosives-heavy.db",
+        "system": "CoC7",
+        "package": "world"
+    },
+	{
+        "label": "Handguns",
+        "entity": "Item",
+        "name": "weapons-handguns",
+        "path": "packs/weapons-handguns.db",
+        "system": "CoC7",
+        "package": "world"
+    },
+	{
+        "label": "Rifles and Shotguns",
+        "entity": "Item",
+        "name": "weapons-rifles-shotguns",
+        "path": "packs/weapons-rifles-shotguns.db",
+        "system": "CoC7",
+        "package": "world"
+    },
+	{
+        "label": "Machine and Submachine Guns",
+        "entity": "Item",
+        "name": "weapons-machine-submachine-guns",
+        "path": "packs/weapons-machine-submachine-guns.db",
+        "system": "CoC7",
+        "package": "world"
+    }
+    ],
+    "url": "https://github.com/",
+    "manifest": "",
+    "download": ""
+  }
