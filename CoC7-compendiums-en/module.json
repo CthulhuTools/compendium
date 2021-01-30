@@ -54,12 +54,20 @@
         "path": "packs/weapons-machine-submachine-guns.db",
         "system": "CoC7",
         "package": "world"
-    },
+    },    
 	{
         "label": "Sanity Roll Tables",
         "entity": "RollTable",
         "name": "tables",
         "path": "packs/tables.db",
+        "system": "CoC7",
+        "package": "world"
+    },
+	{
+        "label": "Examples",
+        "entity": "Actor",
+        "name": "examples",
+        "path": "packs/examples.db",
         "system": "CoC7",
         "package": "world"
     }
