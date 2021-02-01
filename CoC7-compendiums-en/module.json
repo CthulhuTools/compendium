@@ -85,6 +85,14 @@
         "path": "packs/occupations.db",
         "system": "CoC7",
         "package": "world"
+    },
+	{
+        "label": "Pulp Talents",
+        "entity": "Item",
+        "name": "pulp-talents.db",
+        "path": "packs/pulp-talents.db",
+        "system": "CoC7",
+        "package": "world"
     }
     ],
     "url": "https://github.com/CthulhuTools/compendium",
