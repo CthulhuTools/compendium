@@ -101,6 +101,14 @@
         "path": "packs/pulp-talents-insane.db",
         "system": "CoC7",
         "package": "world"
+    },
+	{
+        "label": "Pulp Archetypes",
+        "entity": "Item",
+        "name": "pulp-archetypes.db",
+        "path": "packs/pulp-archetypes.db",
+        "system": "CoC7",
+        "package": "world"
     }
     ],
     "url": "https://github.com/CthulhuTools/compendium",
