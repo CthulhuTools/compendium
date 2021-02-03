@@ -16,6 +16,22 @@
         "package": "world"
     },
 	{
+        "label": "Spells - Call and Dismiss",
+        "entity": "Item",
+        "name": "spells-call",
+        "path": "packs/spells-call.db",
+        "system": "CoC7",
+        "package": "world"
+    },
+	{
+        "label": "Spells - Combat",
+        "entity": "Item",
+        "name": "spells-combat",
+        "path": "packs/spells-combat.db",
+        "system": "CoC7",
+        "package": "world"
+    },
+	{
         "label": "Weapons - Hand-to-Hand",
         "entity": "Item",
         "name": "weapons-hand-to-hand",
