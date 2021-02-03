@@ -24,6 +24,14 @@
         "package": "world"
     },
 	{
+        "label": "Spells - Enchantment",
+        "entity": "Item",
+        "name": "spells-enchantment",
+        "path": "packs/spells-enchantment.db",
+        "system": "CoC7",
+        "package": "world"
+    },
+	{
         "label": "Spells - Combat",
         "entity": "Item",
         "name": "spells-combat",
