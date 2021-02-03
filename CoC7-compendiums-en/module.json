@@ -56,6 +56,14 @@
         "package": "world"
     },
 	{
+        "label": "Spells - Summoning",
+        "entity": "Item",
+        "name": "spells-summon",
+        "path": "packs/spells-summon.db",
+        "system": "CoC7",
+        "package": "world"
+    },
+	{
         "label": "Weapons - Hand-to-Hand",
         "entity": "Item",
         "name": "weapons-hand-to-hand",
