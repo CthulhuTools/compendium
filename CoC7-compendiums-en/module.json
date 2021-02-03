@@ -24,6 +24,14 @@
         "package": "world"
     },
 	{
+        "label": "Spells - Contact",
+        "entity": "Item",
+        "name": "spells-contact",
+        "path": "packs/spells-contact.db",
+        "system": "CoC7",
+        "package": "world"
+    },
+	{
         "label": "Spells - Enchantment",
         "entity": "Item",
         "name": "spells-enchantment",
