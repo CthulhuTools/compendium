@@ -32,6 +32,14 @@
         "package": "world"
     },
 	{
+        "label": "Spells - Gate",
+        "entity": "Item",
+        "name": "spells-gate",
+        "path": "packs/spells-gate.db",
+        "system": "CoC7",
+        "package": "world"
+    },
+	{
         "label": "Spells - Combat",
         "entity": "Item",
         "name": "spells-combat",
