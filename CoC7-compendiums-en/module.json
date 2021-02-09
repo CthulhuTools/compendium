@@ -2,7 +2,7 @@
     "name": "CoC7-compendiums-en",
     "title": "Compendiums for CoC7 in english",
     "description": "<p>A collection of compendiums for Call of Cthulhu.</p>",
-    "version": "0.2",
+    "version": "0.3",
     "minimumCoreVersion": "0.5.0",
     "compatibleCoreVersion": "0.7.9",
     "author": "Unknown",
@@ -177,5 +177,5 @@
     ],
     "url": "https://github.com/CthulhuTools/compendium",
     "manifest": "https://raw.githubusercontent.com/CthulhuTools/compendium/main/CoC7-compendiums-en/module.json",
-    "download": ""
+    "download": "https://github.com/CthulhuTools/compendium/releases/download/0.3/v0.3.zip"
   }
