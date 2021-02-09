@@ -1,0 +1,182 @@
+{
+    "name": "CoC7-compendiums-en",
+    "title": "Compendiums for CoC7 in english",
+    "description": "<p>A collection of compendiums for Call of Cthulhu.</p>",
+    "version": "0.3",
+	"systems": ["CoC7"],
+    "minimumCoreVersion": "0.5.0",
+    "compatibleCoreVersion": "0.7.9",
+    "author": "Unknown",
+    "packs": [
+	{
+        "label": "Monsters - Traditional Horrors",
+        "entity": "Actor",
+        "name": "monsters-traditional",
+        "path": "packs/monsters-traditional.db",
+        "system": "CoC7",
+        "package": "world"	
+	},
+    {
+        "label": "Skills",
+        "entity": "Item",
+        "name": "skills",
+        "path": "packs/skills.db",
+        "system": "CoC7",
+        "package": "world"
+    },
+	{
+        "label": "Spells - Call and Dismiss",
+        "entity": "Item",
+        "name": "spells-call",
+        "path": "packs/spells-call.db",
+        "system": "CoC7",
+        "package": "world"
+    },
+	{
+        "label": "Spells - Contact",
+        "entity": "Item",
+        "name": "spells-contact",
+        "path": "packs/spells-contact.db",
+        "system": "CoC7",
+        "package": "world"
+    },
+	{
+        "label": "Spells - Enchantment",
+        "entity": "Item",
+        "name": "spells-enchantment",
+        "path": "packs/spells-enchantment.db",
+        "system": "CoC7",
+        "package": "world"
+    },
+	{
+        "label": "Spells - Gate",
+        "entity": "Item",
+        "name": "spells-gate",
+        "path": "packs/spells-gate.db",
+        "system": "CoC7",
+        "package": "world"
+    },
+	{
+        "label": "Spells - Combat",
+        "entity": "Item",
+        "name": "spells-combat",
+        "path": "packs/spells-combat.db",
+        "system": "CoC7",
+        "package": "world"
+    },
+	{
+        "label": "Spells - Summoning",
+        "entity": "Item",
+        "name": "spells-summon",
+        "path": "packs/spells-summon.db",
+        "system": "CoC7",
+        "package": "world"
+    },
+	{
+        "label": "Tomes - Mythos",
+        "entity": "Item",
+        "name": "tomes-mythos",
+        "path": "packs/tomes-mythos.db",
+        "system": "CoC7",
+        "package": "world"
+    },	
+	{
+        "label": "Weapons - Hand-to-Hand",
+        "entity": "Item",
+        "name": "weapons-hand-to-hand",
+        "path": "packs/weapons-hand-to-hand.db",
+        "system": "CoC7",
+        "package": "world"
+    },
+	{
+        "label": "Weapons - Explosives and Heavy",
+        "entity": "Item",
+        "name": "weapons-explosives-heavy",
+        "path": "packs/weapons-explosives-heavy.db",
+        "system": "CoC7",
+        "package": "world"
+    },
+	{
+        "label": "Weapons - Handguns",
+        "entity": "Item",
+        "name": "weapons-handguns",
+        "path": "packs/weapons-handguns.db",
+        "system": "CoC7",
+        "package": "world"
+    },
+	{
+        "label": "Weapons - Rifles and Shotguns",
+        "entity": "Item",
+        "name": "weapons-rifles-shotguns",
+        "path": "packs/weapons-rifles-shotguns.db",
+        "system": "CoC7",
+        "package": "world"
+    },
+	{
+        "label": "Weapons - Machine and Submachine Guns",
+        "entity": "Item",
+        "name": "weapons-machine-submachine-guns",
+        "path": "packs/weapons-machine-submachine-guns.db",
+        "system": "CoC7",
+        "package": "world"
+    },    
+	{
+        "label": "Sanity Roll Tables",
+        "entity": "RollTable",
+        "name": "tables",
+        "path": "packs/tables.db",
+        "system": "CoC7",
+        "package": "world"
+    },
+	{
+        "label": "Examples",
+        "entity": "Actor",
+        "name": "examples",
+        "path": "packs/examples.db",
+        "system": "CoC7",
+        "package": "world"
+    },
+	{
+        "label": "Items Examples",
+        "entity": "Item",
+        "name": "items",
+        "path": "./packs/items.db",
+        "system": "CoC7"
+    },
+	{
+        "label": "Occupations",
+        "entity": "Item",
+        "name": "occupations",
+        "path": "packs/occupations.db",
+        "system": "CoC7",
+        "package": "world"
+    },
+	{
+        "label": "Pulp Talents",
+        "entity": "Item",
+        "name": "pulp-talents.db",
+        "path": "packs/pulp-talents.db",
+        "system": "CoC7",
+        "package": "world"
+    },
+	{
+        "label": "Pulp Talents (Insane)",
+        "entity": "Item",
+        "name": "pulp-talents-insane.db",
+        "path": "packs/pulp-talents-insane.db",
+        "system": "CoC7",
+        "package": "world"
+    },
+	{
+        "label": "Pulp Archetypes",
+        "entity": "Item",
+        "name": "pulp-archetypes.db",
+        "path": "packs/pulp-archetypes.db",
+        "system": "CoC7",
+        "package": "world"
+    }
+    ],
+    "url": "https://github.com/CthulhuTools/compendium",
+    "manifest": "https://raw.githubusercontent.com/CthulhuTools/compendium/main/CoC7-compendiums-en/module.json",
+    "download": "https://github.com/CthulhuTools/compendium/releases/download/0.3/v0.3.zip"
+  }
