@@ -3,7 +3,7 @@
     "title": "Compendiums for CoC7 in english",
     "description": "<p>A collection of compendiums for Call of Cthulhu.</p>",
     "version": "0.3",
-	"systems": ["CoC7"],
+    "systems": ["CoC7"],
     "minimumCoreVersion": "0.5.0",
     "compatibleCoreVersion": "0.7.9",
     "author": "Unknown",
