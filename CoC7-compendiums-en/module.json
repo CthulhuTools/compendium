@@ -7,6 +7,14 @@
     "compatibleCoreVersion": "0.7.9",
     "author": "Unknown",
     "packs": [
+	{
+        "label": "Monsters - Traditional Horrors",
+        "entity": "Actor",
+        "name": "monsters-traditional",
+        "path": "packs/monsters-traditional.db",
+        "system": "CoC7",
+        "package": "world"	
+	},
     {
         "label": "Skills",
         "entity": "Item",
