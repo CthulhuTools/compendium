@@ -16,6 +16,14 @@
         "system": "CoC7",
         "package": "world"	
 	},
+	{
+        "label": "Monsters - Mythos",
+        "entity": "Actor",
+        "name": "monsters-mythos",
+        "path": "packs/monsters-mythos.db",
+        "system": "CoC7",
+        "package": "world"	
+	},
     {
         "label": "Skills",
         "entity": "Item",
