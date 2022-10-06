@@ -1,12 +1,17 @@
 {
     "name": "CoC7-compendiums-en",
     "title": "Compendiums for CoC7 in english",
-    "description": "<p>A collection of compendiums for Call of Cthulhu.</p>",
-    "version": "0.4",
+    "description": "A collection of compendiums for Call of Cthulhu.",
+    "version": "0.5",
     "systems": ["CoC7"],
     "minimumCoreVersion": "0.5.0",
-    "compatibleCoreVersion": "0.7.9",
+    "compatibleCoreVersion": "10.286",
+    "compatability": {
+        "minimum": 9,
+        "verified": 10.286
+    },
     "author": "Unknown",
+    "authors": [{"name": "Unknown"}],
     "packs": [
 	{
         "label": "Monsters - Traditional Horrors",
@@ -162,7 +167,7 @@
 	{
         "label": "Pulp Talents",
         "entity": "Item",
-        "name": "pulp-talents.db",
+        "name": "pulp-talents",
         "path": "packs/pulp-talents.db",
         "system": "CoC7",
         "package": "world"
@@ -170,7 +175,7 @@
 	{
         "label": "Pulp Talents (Insane)",
         "entity": "Item",
-        "name": "pulp-talents-insane.db",
+        "name": "pulp-talents-insane",
         "path": "packs/pulp-talents-insane.db",
         "system": "CoC7",
         "package": "world"
@@ -178,7 +183,7 @@
 	{
         "label": "Pulp Archetypes",
         "entity": "Item",
-        "name": "pulp-archetypes.db",
+        "name": "pulp-archetypes",
         "path": "packs/pulp-archetypes.db",
         "system": "CoC7",
         "package": "world"
@@ -186,5 +191,5 @@
     ],
     "url": "https://github.com/CthulhuTools/compendium",
     "manifest": "https://raw.githubusercontent.com/CthulhuTools/compendium/main/CoC7-compendiums-en/module.json",
-    "download": "https://github.com/CthulhuTools/compendium/releases/download/0.4/v0.4.zip"
+    "download": "https://github.com/CthulhuTools/compendium/releases/download/0.5/v0.5.zip"
   }
